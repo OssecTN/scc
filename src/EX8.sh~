@@ -1,6 +1,6 @@
 ############# SCC2015 #############
 #############  OSSEC  #############
-##### Chamseddine Benhamed - Team 3 #####
+##### Baroudi Safwene - Team 3 #####
 
 #EX - 8 - 9pts - Développer un petit jeu VT (vache torreau) par un script shell.
 #Principe : la machine choisit un nombre aléatoire de 4 chiffres distincts, le joueur essaye de deviner ce nombre avec 7 tentatives au maximum sinon il a perdu le jeu..#

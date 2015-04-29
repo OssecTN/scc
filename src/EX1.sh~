@@ -1,6 +1,6 @@
 ############# SCC2015 #############
 #############  OSSEC  #############
-##### Chamseddine Benhamed - Team 3 #####
+##### Baroudi Safwene - Team 3 #####
 
 #EX - 1 - 7pts - Ecrire un Script qui prend en paramètre le chemin d’un dossier (exp : /home/scc/ ) et organise les fichiers qu'il contient dans 4 dossiers : /home/scc/images/, /home/scc/docs, /home/scc/music, /home/scc/videos.
 
